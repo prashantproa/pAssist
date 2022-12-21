@@ -2,7 +2,7 @@
 A GUI based virtual assistant able to perform tasks over both voice and text input.
 P-Assist Chatbot License
 A Creation by Prashant(prashant2003prashant@gmail.com)
-
+Find the exe here: bit.ly/pAssist
 
 Copyright(c) 2022
 
