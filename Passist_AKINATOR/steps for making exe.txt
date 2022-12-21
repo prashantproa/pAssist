@@ -1,0 +1,11 @@
+1. Use auto-py-to-exe with following setting
+   windowed, with icon, include: akinator,akinator.py,data_chatapp folder
+   (not required: goto C:\Users\hp\AppData\Local\Programs\Python\Python39\Lib search for psutil and include all the search result)
+   tick one directory, settings>set desktop as output address
+
+2. Refer the yt video
+Open inno > new > select exe file from auto-py-to-exe output file
+select icon
+kepp exe name:pAssist_V3.1_setup
+keep app name: pAssist (not P-Assist)
+keep folder name different
